@@ -1,3 +1,4 @@
+#write a python to add numbers
 def add(a, b):
     return a + b
 
@@ -15,7 +16,7 @@ print(type(b))  # o/p: float
 print(type(c))  # o/p : Complex
 print(type(d))  # o/p : int
 print((float(a)))  # o/p: 1.0
-print(A)  # 0/p : suji -- identifiers are case sensitve 
+print(A)  # 0/p : suji -- identifiers are case sensitive
 
 #add
 print(10/20)  # o/p: 0.5
